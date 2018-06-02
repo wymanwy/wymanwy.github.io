@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Wyman
+title:  "刘童----www.newtonsz.com"
 date:   2018-06-02 17:52:17 +0800
 categories: jekyll update
 ---
